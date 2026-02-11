@@ -23,7 +23,7 @@ PocketOwl Android is the native Android shell for the PocketOwl app, built with 
 ## <span style="color:#6D8B74;">Visual Preview</span>
 
 <p>
-  <strong style="color:#2f4f3e;">Important:</strong>
+  <strong style="color:#2f4f3e;">Note:</strong>
   The images below are <strong>partial UI snippets</strong> from the app. They are <strong>not full mobile screens</strong> and not complete end-to-end app views.
 </p>
 
